@@ -1,7 +1,7 @@
 TankAttack
 ==========
 
-One of the first games that I built, back on 2002 when the only tool I new for it was a Java Applet.
+One of the first games that I built, back on 2002 when the only tool I knew for it was a Java Applet.
 
 Good memories and not that bad code.
 
